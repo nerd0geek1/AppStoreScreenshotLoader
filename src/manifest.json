@@ -4,15 +4,15 @@
   "icon": "icon.png",
   "commands": [
     {
-      "name": "my-command",
-      "identifier": "my-command-identifier",
+      "name": "Load Screenshots",
+      "identifier": "load-screenshot-identifier",
       "script": "./my-command.js"
     }
   ],
   "menu": {
-    "title": "AppStoreScreenshotLoader",
+    "title": "App Store Screenshot Loader",
     "items": [
-      "my-command-identifier"
+      "load-screenshot-identifier"
     ]
   }
 }
