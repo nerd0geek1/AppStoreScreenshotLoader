@@ -21,5 +21,8 @@
   "devDependencies": {
     "@skpm/builder": "^0.5.11"
   },
-  "author": "Kohei Tabata <nerd0geek1@gmail.com>"
+  "author": "Kohei Tabata <nerd0geek1@gmail.com>",
+  "dependencies": {
+    "skpm": "^1.1.11"
+  }
 }
