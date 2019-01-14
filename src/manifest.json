@@ -6,7 +6,7 @@
     {
       "name": "Load Screenshots",
       "identifier": "load-screenshot-identifier",
-      "script": "./my-command.js"
+      "script": "./load-screenshot.js"
     }
   ],
   "menu": {
